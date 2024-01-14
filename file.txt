@@ -1,3 +1,1 @@
-Hello, I am learning Github.
-My name is Bilal.
-I have technical expertise in HTML, CSS, JS
+Hello, I am learning Github
